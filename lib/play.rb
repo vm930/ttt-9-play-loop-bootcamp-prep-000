@@ -39,7 +39,7 @@ end
 def play (board)
   count = 0
   while count < 8 do
-     turn(broad)
+     turn(board)
      count +=1
    end 
 end 
